@@ -10,3 +10,4 @@ faiss-cpu
 nltk
 pdfkit
 youtube-transcript-api
+PyPDF2
